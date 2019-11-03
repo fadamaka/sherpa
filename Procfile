@@ -1,0 +1,1 @@
+worker: java -jar target/bot-0.0.1.jar

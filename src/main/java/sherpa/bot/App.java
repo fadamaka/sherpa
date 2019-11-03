@@ -14,7 +14,7 @@ public class App
 {
     public static void main( String[] args )
     {
-    	 DiscordClient client = new DiscordClientBuilder("NjQwNjI4MzEyNDM1MDY0ODMy.Xb8l9A.yvh06thUdOp5DNRy7PfGf-8_G2c").build(); // args[0] being the token.
+    	 DiscordClient client = new DiscordClientBuilder("NjQwNjI4MzEyNDM1MDY0ODMy.Xb9j7w.z3d_NnXk-QgkUmQKw3aBO39SfqI").build(); // args[0] being the token.
     	   // This makes the client to actually login
 
     	 client.getEventDispatcher().on(ReadyEvent.class)

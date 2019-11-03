@@ -1,1 +1,1 @@
-worker: java -jar target/bot-0.0.1.jar NjQwNjI4MzEyNDM1MDY0ODMy.Xb8l9A.yvh06thUdOp5DNRy7PfGf-8_G2c
+worker: java -jar target/bot-0.0.1.jar
